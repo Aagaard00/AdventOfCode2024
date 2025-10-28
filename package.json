@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2024",
+  "description": "My solutions to Advent of Code 2024 using TypeScript",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rmdir /s /q dist"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1"
+  }
+}
