@@ -1,4 +1,3 @@
-// TypeScript Solution for Advent Of Code Problem #1
 import { promises as fs } from 'fs';
 
 async function run() {
