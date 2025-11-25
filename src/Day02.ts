@@ -42,6 +42,7 @@ function solveProblem01(reports: number[][]) {
     console.log("Result 01:", count);
 }
 
+// Now, the same rules apply as before, except if removing a single level from an unsafe report would make it safe, the report instead counts as safe.
 function solveProblem02(reports: number[][]) {
     const count = 0;
     console.log("Result 02:", count);
